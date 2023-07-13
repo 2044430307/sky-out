@@ -12,3 +12,6 @@ sky:
     access-key-secret: U6k1brOZ8gaOIXv3nXbulGTUzy6Pd7
     bucket-name: sky-take-out
 
+  wechat:
+    appid: wx8ceb77ef003d3aaf
+    secret: de768eb73a6ae4a65857ec3ae0fe29ab
